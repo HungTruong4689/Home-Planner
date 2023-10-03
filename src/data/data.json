@@ -1,0 +1,74 @@
+[
+    {
+        "name": "MONTPELLIER",
+        "id": "23543636346346354654",
+        "color": "black",
+        "size": "S",
+        "material": "wood",
+        "quantity": 40,
+        "type": "chair",
+        "room": [],
+        "image": "https://cmd-beta.s3.eu-west-1.amazonaws.com/2022/10/180641-montpellier-ruokatuoli-harmaa-kangas-musta-jalka-1.jpg",
+        "price": 75
+    },
+    {
+        "name": "Leather Advanced Office Chairs Adult Design",
+        "id": "34764537645845894",
+        "color": "white",
+        "size": "65x65x50",
+        "material": "leather",
+        "quantity": 20,
+        "type": "chair",
+        "room": [],
+        "image": "https://ae01.alicdn.com/kf/Sf8f4c97f881d402195373fbe4c8fd7b3L/Leather-Advanced-Office-Chairs-Adult-Design-Nordic-Lounge-Bedroom-Modern-Chairs-Luxury-Minimalist-Mueblesa-Kitchen-Furniture.jpg_220x220.jpg_.webp",
+        "price": 84
+    },
+    {
+        "name": "ADDE",
+        "id": "3465465476346436543345",
+        "color": "black",
+        "size": "60x60x40",
+        "material": "plastic",
+        "quantity": 10,
+        "type": "chair",
+        "room": [],
+        "image": "https://www.ikea.com/fi/fi/images/products/adde-tuoli-musta__0728277_pe736167_s5.jpg?f=xs",
+        "price": 54
+    },
+    {
+        "name": "KLEPPSTAD",
+        "id": "4365437457645756843576",
+        "color": "white",
+        "size": "79x176",
+        "material": "wood",
+        "quantity": 12,
+        "type": "chair",
+        "room": [],
+        "image": "https://www.ikea.com/fi/fi/images/products/kleppstad-2-ov-vaatekaappi-valkoinen__0733324_pe748781_s5.jpg?f=xl",
+        "price": 37
+    },
+    {
+        "name": "Storage Rack",
+        "id": "436342546432653478",
+        "color": "red",
+        "size": "82x176",
+        "material": "iron",
+        "quantity": 22,
+        "type": "closet",
+        "room": [],
+        "image": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/59f3caeddf921038b45b7069e6fa09c2.jpg?imageView2/2/w/800/q/70",
+        "price": 59
+    },
+    {
+        "name": "Vaateteline GUDME musta/kromi",
+        "id": "4367547345254576573445",
+        "color": "black",
+        "size": "L81 x K90-161 x S43 cm",
+        "material": "PP (polypropylene)",
+        "quantity": 9,
+        "type": "closet",
+        "room": [],
+        "image": "https://cdn4.jysk.com/getimage/wd2.medium/41438",
+        "price": 14
+    }
+]
