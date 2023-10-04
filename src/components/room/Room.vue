@@ -170,7 +170,7 @@ export default {
             if (itemId === -1) {
                 this.shoppingList.push(product)
             } else {
-                this.shoppingList[itemId].amount++
+                this.shoppingList[itemId].amount + product.amount
             }
             const modifyModal = { showModal: true, shoppingList: this.shoppingList }
             this.$store.dispatch('showShoppingList', modifyModal)
