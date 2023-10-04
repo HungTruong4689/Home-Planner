@@ -78,7 +78,7 @@
                             <td class="border border-customWhite px-4 py-2 text-sm">
                                 <div class="">
                                     <button
-                                        class="inline-flex w-2/3 items-center justify-center px-4 py-1 bg-header text-highlight text-sm font-medium rounded-md border-2 border-highlight hover:bg-highlight hover:text-white transition-colors disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap"
+                                        class="inline-flex md:text-xs w-2/3 items-center justify-center px-4 py-1 bg-header text-highlight text-sm font-medium rounded-md border-2 border-highlight hover:bg-highlight hover:text-white transition-colors disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap"
                                         :disabled="
                                             data.selectedRoom === 0 || data.selectedRoom === '0'
                                         "
@@ -87,7 +87,7 @@
                                         ADD TO ROOM
                                     </button>
                                     <button
-                                        class="inline-flex mt-1 w-2/3 items-center justify-center px-4 py-1 bg-header text-activate text-sm font-medium rounded-md border-2 border-activate hover:bg-activate hover:text-white transition-colors disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap"
+                                        class="inline-flex mt-1 md:text-xs w-2/3 items-center justify-center px-4 py-1 bg-header text-activate text-sm font-medium rounded-md border-2 border-activate hover:bg-activate hover:text-white transition-colors disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap"
                                         @click.prevent="addToCart(data)"
                                     >
                                         ADD TO CART
