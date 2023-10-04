@@ -5,6 +5,7 @@
 -   Chairs and Closets List
 -   Add items to the specific room
 -   Adding, increasing, decreasing, adding to the shopping list, deleting from the shopping list
+-   Showing the shopping list with the cart on the right top button
 
 ## Getting Started
 
