@@ -173,6 +173,8 @@ export default {
                             this.roomName[roomIndex].items[itemId].quantity = updatedData.quantity
                         }
                     }
+                } else {
+                    alert('Out of this item')
                 }
             } else {
                 alert('Please select the room')
